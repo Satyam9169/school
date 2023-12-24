@@ -1,0 +1,58 @@
+{
+  "school": [
+    {
+      "f_name": "Arpit",
+      "l_name": "agrawal",
+      "email": "ar@gmail.com",
+      "phone_no": 4512367841,
+      "section": "six",
+      "address": "xyz nagar, noida Uttar pradhesh",
+      "id": 1
+    },
+    {
+      "f_name": "Shubham",
+      "l_name": "singh",
+      "email": "sh@gmail.com",
+      "phone_no": 9512367841,
+      "section": "seven",
+      "address": "abc nagar, noida Uttar pradhesh",
+      "id": 2
+    },
+    {
+      "f_name": "Navneet",
+      "l_name": "mishra",
+      "email": "ms@gmail.com",
+      "phone_no": 4536967841,
+      "section": "eight",
+      "address": "xyz nagar, lucknow Uttar pradhesh",
+      "id": 3
+    },
+    {
+      "f_name": "Aman",
+      "l_name": "tiwari",
+      "email": "at@gmail.com",
+      "phone_no": 4512367531,
+      "section": "fifth",
+      "address": "xyz colony, noida sector-21 Uttar pradhesh",
+      "id": 4
+    },
+    {
+      "f_name": "abhinav",
+      "l_name": "singh",
+      "email": "abhinav@gmail.com",
+      "phone": "851245786541",
+      "section": "six",
+      "address": "phulpur, pratapgadgh uttar pradhesh",
+      "id": 5
+    },
+    {
+      "f_name": "abhinav",
+      "l_name": "singh",
+      "email": "abhinav@gmail.com",
+      "phone": "851245786541",
+      "section": "six",
+      "address": "phulpur, pratapgadgh uttar pradhesh",
+      "id": 6
+    }
+  ]
+}
